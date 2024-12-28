@@ -5,6 +5,7 @@
     <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#atualizações-futuras">Atualizações Futuras</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#licença">Licença</a>
   </p>
@@ -52,6 +53,19 @@ O script é totalmente interativo. Ele guiará você pelas seguintes etapas:
 **rembg**: Para remover o fundo das imagens.
 **Pillow**: Para manipulação e salvamento das imagens.
 **onnxruntime**: Executa modelos de aprendizado de máquina utilizados nesse projeto.
+
+## Atualizações Futuras
+1. **Transformação em Executável (Sem Necessidade de Python)**
+O objetivo é tornar o uso do projeto ainda mais simples, especialmente para aqueles que não têm experiência com programação. Estou trabalhando para converter o script Python em um executável. Isso significa que, no futuro, os usuários poderão simplesmente baixar e executar um arquivo (como um .exe no Windows ou um .app no macOS), sem precisar instalar o Python ou as dependências manualmente. Isso vai permitir um processo de uso mais direto e amigável.
+&nbsp;
+2. **Melhoria na Interface Gráfica (GUI)**
+A interface atual é simples, mas estamos planejando uma versão com uma interface gráfica (GUI) mais robusta. A ideia é adicionar opções intuitivas, como:
+
+    - Arrastar e soltar imagens para o aplicativo.
+    - Exibir pré-visualizações da imagem com o fundo removido.
+    &nbsp;
+3. **Otimização e Suporte a Novos Modelos**
+Estou planejando melhorias no desempenho do modelo de remoção de fundo, incluindo a integração de novos algoritmos de IA que podem oferecer resultados ainda mais rápidos e precisos, além de suportar diferentes tipos de imagens e fundos.
 
 ## Contribuição
 
